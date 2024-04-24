@@ -9,3 +9,13 @@
 .nav-element{
     color: blue;
 }
+
+.page-title{
+    text-align: center; 
+    margin: 0 0 80px;
+}
+
+.whales-image{
+    display: block;
+    margin: 0 auto;
+}
